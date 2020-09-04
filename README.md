@@ -42,7 +42,7 @@ python3 GUIfinal.py
 *The command can be configured using cron to run on boot and the reports can be seen using VNCviewer after connecting to Raspberry pi on the same network for autonomous operation.*
 
 Notes: 
-* The other files have to be placed in the same directory as the GUIfinal.py for generating graphs for each nodes - The current setup works is made for 3 nodes and raspberry pi as gateway
+* The other files have to be placed in the same directory as the GUIfinal.py for generating graphs for each nodes ; The current setup is made for 3 nodes and raspberry pi as gateway
 * The sensor code is configured to the application of detecting level of container contents when planted on the bottom face of the lid of the container.
 * This can be adapted to a different application for eg. Smart PostBox by switching the sensor with a [weight/load sensor](https://www.sparkfun.com/products/10245) (along with appropriate hardware) and code changes.
 
