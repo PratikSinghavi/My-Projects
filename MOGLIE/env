@@ -1,0 +1,8 @@
+DEBUG=True
+TEMPLATE_DEBUG=True
+CITY ='Thane'
+BANK_NAME=axis
+SAVE_HTML = True
+RECEIVER_EMAIL_ID = receiver@gmail.com
+SENDER_EMAIL_ID = senderemail@gmail.com
+SENDER_PASSWORD = enter password here
