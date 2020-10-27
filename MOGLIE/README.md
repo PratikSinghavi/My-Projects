@@ -29,7 +29,7 @@ Have a look at the video in the folder **'demo/'**
 ## Steps to configure/run :
 
 ### Step 1 : Configuration 
-* Open the .env file and setup the following config parameters : 
+* Open the env file and setup the following config parameters : 
     | Parameter | Description |
     | --- | --- |
     |CITY | City where the offers are to be searched|
@@ -38,6 +38,7 @@ Have a look at the video in the folder **'demo/'**
     |RECEIVER_EMAIL_ID | Users email ID|
     |SENDER_EMAIL_ID* | Any email id that can log in using smtplib functions|
     |SENDER_PASSWORD | Password for the SENDER_EMAIL_ID|
+* Save it as '**.env**' file, the script will throw and error if this step is not done correctly.
 
 Note - 
 * *The Sender email id has to enable Less secure apps access using [this](https://myaccount.google.com/lesssecureapps) link. 
