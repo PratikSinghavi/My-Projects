@@ -39,7 +39,7 @@ class movie_offer_getter():
         """
 
         #Maximize the window and go to the website
-        #self.driver.maximize_window()
+        self.driver.maximize_window()
         self.driver.get(self.base_link)
         time.sleep(4)
 
