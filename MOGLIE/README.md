@@ -1,7 +1,7 @@
 # MOGLIE (Movie Offer Getter & Limber Information Emailer)
 As a frequent moviegoer myself, this is an attempt to get great offers and discounts on the next screening of your favourite movie!
 
-Have a look at the video in the folder **'demo/'**
+Have a look at the video in the folder **'demo/Demo.mov'** for full demonstration of code execution.
 
 ## Recommendations:
 * I personally use this project regularly and have setup (and recommend) a **cron job** to run the script every 15 days.
@@ -53,3 +53,5 @@ Note -
 #### Additional Notes:
 * The output.html will not show images when opened, the purpose is to verify if the html document is genreated with correct img tags and src property. Inspect the code to understand how the images are attached in the mail.
 * To see the html completely, the src property will have to be modified to point to the correct images in the html document.
+* **'/demo'** contains the complete demonstration of the code execution called **Demo.mov**.
+* The above directory also includes a mail sample (for a different bank).
