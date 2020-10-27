@@ -38,7 +38,7 @@ Have a look at the video in the folder **'demo/'**
     |RECEIVER_EMAIL_ID | Users email ID|
     |SENDER_EMAIL_ID* | Any email id that can log in using smtplib functions|
     |SENDER_PASSWORD | Password for the SENDER_EMAIL_ID|
-* Save it as '**.env**' file, the script will throw and error if this step is not done correctly.
+* Save it as '**.env**' file, the script will throw an error suggesting config parameter not found if this step is not done correctly. **DO NOT FORGET** 
 
 Note - 
 * *The Sender email id has to enable Less secure apps access using [this](https://myaccount.google.com/lesssecureapps) link. 
