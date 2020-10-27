@@ -39,7 +39,7 @@ Have a look at the video in the folder **'demo/'**
     |SENDER_PASSWORD | Password for the SENDER_EMAIL_ID|
 
 Note - 
-* The Sender email id has to enable Less secure apps access using [this](https://myaccount.google.com/lesssecureapps) link. 
+* *The Sender email id has to enable Less secure apps access using [this](https://myaccount.google.com/lesssecureapps) link. 
 * Another (**Recommended**) way is to create an App-password if you have 2-factor-authentication enabled.
 
 
