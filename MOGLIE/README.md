@@ -49,3 +49,6 @@ Note -
 * Simply run using the following command after navigating to the directory where main.py is located:
 
 ``` >> python3 main.py ```
+
+#### Additional Notes:
+* The output.html will not show images when opened, the purpose is to verify if the html document is genreated with correct img tags and src property. Inspect the code to understand how the images are attached in the mail.
