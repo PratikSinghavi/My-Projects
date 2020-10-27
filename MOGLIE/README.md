@@ -29,10 +29,10 @@ Have a look at the video in the folder **'demo/'**
 
 ### Step 1 : Configuration 
 * Open the .env file and setup the following config parameters : 
-    | Command | Description |
+    | Parameter | Description |
     | --- | --- |
     |CITY | City where the offers are to be searched|
-    |BANK_NAME | bank name in lowercase eg. axis |
+    |BANK_NAME | Bank name in lowercase eg. axis |
     |SAVE_HTML | Saves the mail htmlcontent if this is set to True  |
     |RECEIVER_EMAIL_ID | Users email ID|
     |SENDER_EMAIL_ID* | Any email id that can log in using smtplib functions|
