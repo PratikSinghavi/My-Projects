@@ -4,8 +4,9 @@ As a frequent moviegoer myself, this is an attempt to get great offers and disco
 Have a look at the video in the folder **'demo/'**
 
 ## Recommendations:
-* I personally use this project regularly and have setup a **cron job** to run the script every 15 days.
+* I personally use this project regularly and have setup (and recommend) a **cron job** to run the script every 15 days.
 * The email is an easy way to access the offers and immediately book tickets as it takes you to the page with offer details and has a 'Book Now' button.
+
 
 ## Additional Use Case
 * For a client of the app, the benefits are obvious as the offers can be used to save on the movie tickets.
@@ -14,7 +15,7 @@ Have a look at the video in the folder **'demo/'**
 * Additional ML models can be added to customize the offers further or decide on which offers attract the customers the most.
 
 ## Technical Details
-* Implements **selenium python bindings** with **Firefox webdriver** to automate the process of searching for offers on the website.
+* Implements **Selenium python bindings** with **Firefox webdriver** to automate the process of searching for offers on the website.
 * html content in the email prepared using **yattag**.
 * **smtplib** to send out the email to the recipient.
 
