@@ -52,3 +52,4 @@ Note -
 
 #### Additional Notes:
 * The output.html will not show images when opened, the purpose is to verify if the html document is genreated with correct img tags and src property. Inspect the code to understand how the images are attached in the mail.
+* To see the html completely, the src property will have to be modified to point to the correct images in the html document.
