@@ -2,7 +2,7 @@
 
 ## MOGLIE (Movie Offer Getter & Limber Information Emailer)
 * MOGLIE is an project designed to gather movie offers automatically for avid moviegoers.
-* It automates the process of gathering deals for a specific bank account from the famous 'bookmyshow' website and finds deals filtered by user's city and bank. 
+* It automates the process of gathering deals from the famous 'bookmyshow' website using selenium and Firefox webdriver and sends customized deals to the user via email.
 
 
 ## Neural Network for MNIST Dataset
