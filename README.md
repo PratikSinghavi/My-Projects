@@ -1,5 +1,7 @@
 # My-Projects
 
+Below is a summary of the projects. For more details, visit the respective project directory.
+
 ## MOGLIE (Movie Offer Getter & Limber Information Emailer)
 * MOGLIE is an project designed to gather movie offers automatically for avid moviegoers.
 * It automates the process of gathering deals from the famous 'bookmyshow' website using selenium and Firefox webdriver and sends customized deals to the user via email.
