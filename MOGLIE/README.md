@@ -1,7 +1,7 @@
 # MOGLIE (Movie Offer Getter & Limber Information Emailer)
 As a frequent moviegoer myself, this is an attempt to get great offers and discounts on the next screening of your favourite movie!
 
-Have a look at the video in the folder **'demo/Demo.mov'** for full demonstration of code execution.
+Have a look at the video in the folder **'demo/Demo.mov'** to see it in action! ;)
 
 ## Recommendations:
 * I personally use this project regularly and have setup (and recommend) a **cron job** to run the script every 15 days.
